@@ -1,0 +1,26 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "cSpell.words": [
+        "adicionar",
+        "ataque",
+        "baralho",
+        "Carta",
+        "Cavaleiro",
+        "defesa",
+        "Dragão",
+        "Elfo",
+        "Empate",
+        "exibir",
+        "Feiticeiro",
+        "Jogador",
+        "jogo",
+        "pontos",
+        "Rodada",
+        "saldo",
+        "venceu"
+    ]
+}
